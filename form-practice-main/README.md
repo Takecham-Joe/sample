@@ -8,3 +8,4 @@
 
 ## Additional assignment
 - 追加課題 : base.css に用意した「.is_flex 」を使用して生年月日を横並びにする
+
